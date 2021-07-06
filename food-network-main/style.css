@@ -12,7 +12,7 @@ h1 {
   width: 50%;
   padding: 7%;
 }
-section {
+.flexible-container {
   display: flex;
   margin-bottom: 50px;
   margin: 0%;
