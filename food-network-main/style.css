@@ -14,6 +14,8 @@ h1 {
 }
 section {
   display: flex;
+  margin-bottom: 50px;
+  margin: 0%;
 }
 .boltu img {
   width: 100%;
@@ -26,4 +28,8 @@ section {
   background-image: linear-gradient(orange, red);
   font-weight: 700px;
   color: white;
+}
+.banner {
+  background-image: url(images/shapes/7.png);
+  background-repeat: no-repeat;
 }
