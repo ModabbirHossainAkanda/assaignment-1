@@ -1,0 +1,29 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-size: 50px;
+}
+.lal-mia {
+  color: orange;
+}
+.boltu {
+  width: 50%;
+  padding: 7%;
+}
+section {
+  display: flex;
+}
+.boltu img {
+  width: 100%;
+}
+.picaso {
+  text-decoration: none;
+  padding: 20px 50px;
+  background-color: orange;
+  border-radius: 30px;
+  background-image: linear-gradient(orange, red);
+  font-weight: 700px;
+  color: white;
+}
